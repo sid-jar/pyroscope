@@ -1,0 +1,11 @@
+/webapp/public/**
+/webapp/javascript/util/**
+/webapp/__tests__/**
+/benchmark/**
+scripts/**
+dist
+.eslintrc.js
+stories
+setupAfterEnv.ts
+jest.config.js
+cypress
